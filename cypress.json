@@ -1,0 +1,13 @@
+{
+
+    "projectId":"53xksy",
+    "defaultCommandTimeout":250000,
+  "pageLoadTimeout":250000,
+  "reporter":"mochawesome",
+  "failOnStatusCode": false,
+    "env":{
+        "url":"https://recommendation-engine-dev-ui.ausvtc01.pcf.dell.com/home",
+        "url1":"https://recommendation-ui-dev.ausvtc01.pcf.dell.com/home",
+        "api":"https://recommendationenginedevapi.cfd.isus.emc.com/V1/Get_recommendations"
+    }
+}
